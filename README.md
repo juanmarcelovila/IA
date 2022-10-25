@@ -1,6 +1,8 @@
 # IA
 Inteligencia Artificial
-Trabajo Practico Nro 3
+Trabajo Practicos
+
+TP3 - Trabajo practico 3
 
 Para ejecutar: 
 python tp3.py
