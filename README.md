@@ -1,6 +1,7 @@
 # IA
 Inteligencia Artificial
-Trabajo Practicos
+
+Trabajos Practicos
 
 TP3 - Trabajo practico 3
 
