@@ -12,3 +12,4 @@ Para cambiar el objetivo, cambiar archivos de entrenamiento en:
 ./datos/entrena/*.png
 
 Atencion, mientras mas archivos se coloquen en entrena, mas demora en obtener el resultado.
+(en las pruebas, del orden de varios segundos)
